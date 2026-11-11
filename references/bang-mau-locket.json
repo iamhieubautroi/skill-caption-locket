@@ -1,0 +1,1276 @@
+[
+  {
+    "id": "M001",
+    "name": "Kẹo dâu",
+    "bg1": "#FFC2C8",
+    "bg2": "#F999B7",
+    "textColor": "Đen",
+    "tags": [
+      "tình yêu",
+      "ngọt",
+      "crush"
+    ],
+    "vibe": "ngọt, dễ thương"
+  },
+  {
+    "id": "M002",
+    "name": "Đào chín",
+    "bg1": "#FFD3C0",
+    "bg2": "#F7B4A9",
+    "textColor": "Đen",
+    "tags": [
+      "ăn uống",
+      "ngọt",
+      "sáng sớm"
+    ],
+    "vibe": "ấm, mềm"
+  },
+  {
+    "id": "M003",
+    "name": "Vani kem",
+    "bg1": "#F7ECBE",
+    "bg2": "#F3D2A4",
+    "textColor": "Đen",
+    "tags": [
+      "ăn uống",
+      "chill",
+      "sáng sớm"
+    ],
+    "vibe": "sạch, nhẹ"
+  },
+  {
+    "id": "M004",
+    "name": "Bơ sáp",
+    "bg1": "#D8EFB4",
+    "bg2": "#AFDDA5",
+    "textColor": "Đen",
+    "tags": [
+      "ăn uống",
+      "thiên nhiên"
+    ],
+    "vibe": "tươi, healthy"
+  },
+  {
+    "id": "M005",
+    "name": "Bạc hà",
+    "bg1": "#BEF2DE",
+    "bg2": "#97DDD8",
+    "textColor": "Đen",
+    "tags": [
+      "ốm",
+      "chill",
+      "lạnh"
+    ],
+    "vibe": "mát, sạch"
+  },
+  {
+    "id": "M006",
+    "name": "Matcha latte",
+    "bg1": "#C1E4AF",
+    "bg2": "#97CE9C",
+    "textColor": "Đen",
+    "tags": [
+      "trà sữa",
+      "cafe",
+      "ăn uống",
+      "hà nội",
+      "mùa thu"
+    ],
+    "vibe": "trà xanh sữa"
+  },
+  {
+    "id": "M007",
+    "name": "Nước biển nông",
+    "bg1": "#B3EEF4",
+    "bg2": "#99D5ED",
+    "textColor": "Đen",
+    "tags": [
+      "biển",
+      "du lịch",
+      "chill"
+    ],
+    "vibe": "trong veo"
+  },
+  {
+    "id": "M008",
+    "name": "Trời trong",
+    "bg1": "#BEE4FF",
+    "bg2": "#A9CAF5",
+    "textColor": "Đen",
+    "tags": [
+      "sáng sớm",
+      "học",
+      "chill"
+    ],
+    "vibe": "sáng, thoáng"
+  },
+  {
+    "id": "M009",
+    "name": "Oải hương",
+    "bg1": "#DECEFF",
+    "bg2": "#D5B2E5",
+    "textColor": "Đen",
+    "tags": [
+      "ngủ",
+      "chill",
+      "đà lạt"
+    ],
+    "vibe": "mơ màng"
+  },
+  {
+    "id": "M010",
+    "name": "Khoai môn",
+    "bg1": "#DEC0F5",
+    "bg2": "#BBA8E7",
+    "textColor": "Đen",
+    "tags": [
+      "trà sữa",
+      "ăn uống",
+      "ngọt"
+    ],
+    "vibe": "tím sữa"
+  },
+  {
+    "id": "M011",
+    "name": "Hồng phấn",
+    "bg1": "#FFD3E6",
+    "bg2": "#EABADB",
+    "textColor": "Đen",
+    "tags": [
+      "tình yêu",
+      "phụ nữ",
+      "makeup",
+      "cưới"
+    ],
+    "vibe": "nữ tính"
+  },
+  {
+    "id": "M012",
+    "name": "Sen hồng",
+    "bg1": "#FFC5DA",
+    "bg2": "#E6A7D0",
+    "textColor": "Đen",
+    "tags": [
+      "tâm linh",
+      "phụ nữ",
+      "gia đình",
+      "tết"
+    ],
+    "vibe": "thanh, hiền"
+  },
+  {
+    "id": "M013",
+    "name": "Kem dừa",
+    "bg1": "#F8EDD8",
+    "bg2": "#E7D8C5",
+    "textColor": "Đen",
+    "tags": [
+      "tối giản",
+      "flex",
+      "20/11",
+      "cưới",
+      "sang chảnh"
+    ],
+    "vibe": "trắng ngà"
+  },
+  {
+    "id": "M014",
+    "name": "Trà sữa trân châu",
+    "bg1": "#EBC29B",
+    "bg2": "#D39E7A",
+    "textColor": "Đen",
+    "tags": [
+      "trà sữa",
+      "ăn uống"
+    ],
+    "vibe": "caramel sữa"
+  },
+  {
+    "id": "M015",
+    "name": "Bánh flan",
+    "bg1": "#FDD990",
+    "bg2": "#FDB171",
+    "textColor": "Đen",
+    "tags": [
+      "ăn uống",
+      "vô tri",
+      "ngọt"
+    ],
+    "vibe": "vàng trứng"
+  },
+  {
+    "id": "M016",
+    "name": "Xoài non",
+    "bg1": "#F0E988",
+    "bg2": "#FFC761",
+    "textColor": "Đen",
+    "tags": [
+      "nắng",
+      "mùa hè",
+      "ăn uống"
+    ],
+    "vibe": "vàng tươi"
+  },
+  {
+    "id": "M017",
+    "name": "Chanh neon",
+    "bg1": "#D6F55B",
+    "bg2": "#DDD000",
+    "textColor": "Đen",
+    "tags": [
+      "meme",
+      "vô tri",
+      "party"
+    ],
+    "vibe": "lime chói"
+  },
+  {
+    "id": "M018",
+    "name": "Cam sữa",
+    "bg1": "#FFC392",
+    "bg2": "#FC9B6F",
+    "textColor": "Đen",
+    "tags": [
+      "thú cưng",
+      "vô tri",
+      "ăn uống"
+    ],
+    "vibe": "mèo cam"
+  },
+  {
+    "id": "M019",
+    "name": "Táo xanh",
+    "bg1": "#AFEC8C",
+    "bg2": "#75D78D",
+    "textColor": "Đen",
+    "tags": [
+      "gym",
+      "healthy",
+      "du lịch"
+    ],
+    "vibe": "giòn, tươi"
+  },
+  {
+    "id": "M020",
+    "name": "Ngọc mint",
+    "bg1": "#7BE9CD",
+    "bg2": "#4FCDCD",
+    "textColor": "Đen",
+    "tags": [
+      "chill",
+      "biển",
+      "mùa hè"
+    ],
+    "vibe": "mint đậm"
+  },
+  {
+    "id": "M021",
+    "name": "Xanh baby",
+    "bg1": "#A3D9FF",
+    "bg2": "#90BAF1",
+    "textColor": "Đen",
+    "tags": [
+      "crush",
+      "học",
+      "ngọt"
+    ],
+    "vibe": "xanh em bé"
+  },
+  {
+    "id": "M022",
+    "name": "Tím mộng",
+    "bg1": "#C8B7FF",
+    "bg2": "#C097DF",
+    "textColor": "Đen",
+    "tags": [
+      "đà lạt",
+      "ngủ",
+      "tâm linh"
+    ],
+    "vibe": "tím mơ"
+  },
+  {
+    "id": "M023",
+    "name": "Kẹo bông",
+    "bg1": "#FFC4DE",
+    "bg2": "#D5AFF2",
+    "textColor": "Đen",
+    "tags": [
+      "ngọt",
+      "vô tri",
+      "sinh nhật"
+    ],
+    "vibe": "hồng sang tím"
+  },
+  {
+    "id": "M024",
+    "name": "Bubblegum",
+    "bg1": "#FF99C2",
+    "bg2": "#E17CC2",
+    "textColor": "Đen",
+    "tags": [
+      "crush",
+      "vô tri",
+      "valentine"
+    ],
+    "vibe": "hồng kẹo cao su"
+  },
+  {
+    "id": "M025",
+    "name": "Hồng đất",
+    "bg1": "#E2AFAE",
+    "bg2": "#CC939A",
+    "textColor": "Đen",
+    "tags": [
+      "vintage",
+      "buồn nhẹ",
+      "ootd"
+    ],
+    "vibe": "hồng xỉn"
+  },
+  {
+    "id": "M026",
+    "name": "Xám mây",
+    "bg1": "#D0D8E1",
+    "bg2": "#B8BEC8",
+    "textColor": "Đen",
+    "tags": [
+      "mệt",
+      "không cảm xúc",
+      "mưa"
+    ],
+    "vibe": "xám lạnh"
+  },
+  {
+    "id": "M027",
+    "name": "Tro hồng",
+    "bg1": "#D9C9CF",
+    "bg2": "#BEAFB7",
+    "textColor": "Đen",
+    "tags": [
+      "mệt",
+      "buồn nhẹ"
+    ],
+    "vibe": "xám ấm"
+  },
+  {
+    "id": "M028",
+    "name": "Latte",
+    "bg1": "#DFCAB2",
+    "bg2": "#CDAD95",
+    "textColor": "Đen",
+    "tags": [
+      "cafe",
+      "vintage",
+      "ootd",
+      "makeup"
+    ],
+    "vibe": "be cafe sữa"
+  },
+  {
+    "id": "M029",
+    "name": "Nắng sớm",
+    "bg1": "#FDE89A",
+    "bg2": "#FFC79B",
+    "textColor": "Đen",
+    "tags": [
+      "sáng sớm",
+      "nắng",
+      "mới ngủ dậy"
+    ],
+    "vibe": "vàng sang đào"
+  },
+  {
+    "id": "M030",
+    "name": "Cát biển",
+    "bg1": "#F3D2A4",
+    "bg2": "#E4BB95",
+    "textColor": "Đen",
+    "tags": [
+      "biển",
+      "du lịch",
+      "ăn uống",
+      "sáng sớm"
+    ],
+    "vibe": "cát ấm"
+  },
+  {
+    "id": "M031",
+    "name": "Bánh nướng",
+    "bg1": "#F8BF6C",
+    "bg2": "#E6964F",
+    "textColor": "Đen",
+    "tags": [
+      "trung thu",
+      "ăn uống",
+      "tâm linh"
+    ],
+    "vibe": "vàng nướng"
+  },
+  {
+    "id": "M032",
+    "name": "Mai vàng",
+    "bg1": "#F9D544",
+    "bg2": "#F2A618",
+    "textColor": "Đen",
+    "tags": [
+      "tết",
+      "20/11",
+      "nắng",
+      "vô tri"
+    ],
+    "vibe": "vàng hoa mai"
+  },
+  {
+    "id": "M033",
+    "name": "Tuyết",
+    "bg1": "#E2F1FA",
+    "bg2": "#CADEED",
+    "textColor": "Đen",
+    "tags": [
+      "noel",
+      "lạnh",
+      "tối giản"
+    ],
+    "vibe": "trắng xanh"
+  },
+  {
+    "id": "M034",
+    "name": "Bí ngô",
+    "bg1": "#FF9B51",
+    "bg2": "#EB7A52",
+    "textColor": "Đen",
+    "tags": [
+      "halloween",
+      "trung thu"
+    ],
+    "vibe": "cam bí"
+  },
+  {
+    "id": "M035",
+    "name": "Cam neon",
+    "bg1": "#FF8F51",
+    "bg2": "#F6684C",
+    "textColor": "Đen",
+    "tags": [
+      "deadline",
+      "vô tri",
+      "gym"
+    ],
+    "vibe": "cam báo động"
+  },
+  {
+    "id": "M036",
+    "name": "Lá thu",
+    "bg1": "#FAB36D",
+    "bg2": "#E98664",
+    "textColor": "Đen",
+    "tags": [
+      "mùa thu",
+      "hà nội",
+      "chill"
+    ],
+    "vibe": "vàng sang cam"
+  },
+  {
+    "id": "M037",
+    "name": "Soda xanh",
+    "bg1": "#54E2E9",
+    "bg2": "#42C2E6",
+    "textColor": "Đen",
+    "tags": [
+      "party",
+      "mùa hè",
+      "biển"
+    ],
+    "vibe": "aqua sủi"
+  },
+  {
+    "id": "M038",
+    "name": "Cyan neon",
+    "bg1": "#44D7FF",
+    "bg2": "#47B5FA",
+    "textColor": "Đen",
+    "tags": [
+      "game",
+      "party",
+      "công nghệ"
+    ],
+    "vibe": "cyan điện"
+  },
+  {
+    "id": "M039",
+    "name": "Hoàng hôn Đà Nẵng",
+    "bg1": "#F68C36",
+    "bg2": "#E0576A",
+    "textColor": "Đen",
+    "tags": [
+      "hoàng hôn",
+      "biển",
+      "du lịch"
+    ],
+    "vibe": "cam sang hồng"
+  },
+  {
+    "id": "M040",
+    "name": "Bình minh",
+    "bg1": "#FACF9E",
+    "bg2": "#F6AB9F",
+    "textColor": "Đen",
+    "tags": [
+      "sáng sớm",
+      "chill"
+    ],
+    "vibe": "đào sang hồng"
+  },
+  {
+    "id": "M041",
+    "name": "Cực quang",
+    "bg1": "#61D7B2",
+    "bg2": "#1DB8CE",
+    "textColor": "Đen",
+    "tags": [
+      "đêm",
+      "du lịch",
+      "chill"
+    ],
+    "vibe": "mint sang xanh"
+  },
+  {
+    "id": "M042",
+    "name": "Trà đá",
+    "bg1": "#E8A95C",
+    "bg2": "#D58042",
+    "textColor": "Đen",
+    "tags": [
+      "ăn uống",
+      "nhậu",
+      "vỉa hè"
+    ],
+    "vibe": "hổ phách"
+  },
+  {
+    "id": "M043",
+    "name": "Vịnh ngọc",
+    "bg1": "#30B4AD",
+    "bg2": "#00919D",
+    "textColor": "Đen",
+    "tags": [
+      "du lịch",
+      "biển"
+    ],
+    "vibe": "ngọc bích"
+  },
+  {
+    "id": "M044",
+    "name": "Lửa trại",
+    "bg1": "#ED7B00",
+    "bg2": "#DA4433",
+    "textColor": "Đen",
+    "tags": [
+      "lửa",
+      "deadline",
+      "party"
+    ],
+    "vibe": "cam lửa"
+  },
+  {
+    "id": "M045",
+    "name": "Kaki",
+    "bg1": "#C8BE9A",
+    "bg2": "#B3A381",
+    "textColor": "Đen",
+    "tags": [
+      "ootd",
+      "vintage"
+    ],
+    "vibe": "kaki"
+  },
+  {
+    "id": "M046",
+    "name": "Vàng kim",
+    "bg1": "#D9BB66",
+    "bg2": "#C38C37",
+    "textColor": "Đen",
+    "tags": [
+      "flex",
+      "tết",
+      "tốt nghiệp"
+    ],
+    "vibe": "gold"
+  },
+  {
+    "id": "M047",
+    "name": "Bạc",
+    "bg1": "#CDD1D8",
+    "bg2": "#A7ABB1",
+    "textColor": "Đen",
+    "tags": [
+      "flex",
+      "sang chảnh",
+      "công nghệ"
+    ],
+    "vibe": "silver"
+  },
+  {
+    "id": "M048",
+    "name": "Nắng gắt",
+    "bg1": "#FFA82A",
+    "bg2": "#F97C3D",
+    "textColor": "Đen",
+    "tags": [
+      "nắng",
+      "mùa hè",
+      "nóng",
+      "deadline",
+      "cảnh báo"
+    ],
+    "vibe": "nắng 40 độ"
+  },
+  {
+    "id": "M049",
+    "name": "Mưa phùn",
+    "bg1": "#B1C0C8",
+    "bg2": "#9AA7B0",
+    "textColor": "Đen",
+    "tags": [
+      "mưa",
+      "hà nội",
+      "lạnh"
+    ],
+    "vibe": "xám mưa phùn"
+  },
+  {
+    "id": "M050",
+    "name": "Gió mùa",
+    "bg1": "#B5D8E3",
+    "bg2": "#99BDD3",
+    "textColor": "Đen",
+    "tags": [
+      "lạnh",
+      "mùa đông"
+    ],
+    "vibe": "xanh lạnh"
+  },
+  {
+    "id": "M051",
+    "name": "Ốm vặt",
+    "bg1": "#C8E8CD",
+    "bg2": "#AFD5BF",
+    "textColor": "Đen",
+    "tags": [
+      "ốm",
+      "mệt"
+    ],
+    "vibe": "xanh nhợt"
+  },
+  {
+    "id": "M052",
+    "name": "San hô",
+    "bg1": "#FFAB9D",
+    "bg2": "#ED8B8B",
+    "textColor": "Đen",
+    "tags": [
+      "biển",
+      "mùa hè",
+      "ootd"
+    ],
+    "vibe": "coral"
+  },
+  {
+    "id": "M053",
+    "name": "Mộng mị",
+    "bg1": "#ADA9CC",
+    "bg2": "#9A8FB0",
+    "textColor": "Đen",
+    "tags": [
+      "overthinking",
+      "buồn nhẹ",
+      "ngủ"
+    ],
+    "vibe": "lavender xám"
+  },
+  {
+    "id": "M054",
+    "name": "Xi măng",
+    "bg1": "#A0A5AB",
+    "bg2": "#888D92",
+    "textColor": "Đen",
+    "tags": [
+      "vô tri",
+      "mệt",
+      "công sở"
+    ],
+    "vibe": "xám bê tông"
+  },
+  {
+    "id": "M055",
+    "name": "Lá non",
+    "bg1": "#77D163",
+    "bg2": "#2CBB67",
+    "textColor": "Đen",
+    "tags": [
+      "thiên nhiên",
+      "mùa xuân",
+      "healthy"
+    ],
+    "vibe": "xanh lộc"
+  },
+  {
+    "id": "M056",
+    "name": "Bầu trời",
+    "bg1": "#53B6EB",
+    "bg2": "#5497D9",
+    "textColor": "Đen",
+    "tags": [
+      "du lịch",
+      "máy bay",
+      "nắng"
+    ],
+    "vibe": "xanh trời trưa"
+  },
+  {
+    "id": "M057",
+    "name": "Lightstick",
+    "bg1": "#B699EB",
+    "bg2": "#AB7CC7",
+    "textColor": "Đen",
+    "tags": [
+      "kpop",
+      "concert",
+      "party"
+    ],
+    "vibe": "tím pastel đậm"
+  },
+  {
+    "id": "M058",
+    "name": "Đỏ cờ",
+    "bg1": "#D4241B",
+    "bg2": "#B2001B",
+    "textColor": "Trắng",
+    "tags": [
+      "bóng đá",
+      "2/9",
+      "tết",
+      "cưới"
+    ],
+    "vibe": "đỏ thắm"
+  },
+  {
+    "id": "M059",
+    "name": "Đỏ ớt",
+    "bg1": "#D24100",
+    "bg2": "#A80014",
+    "textColor": "Trắng",
+    "tags": [
+      "deadline",
+      "cáu",
+      "lửa",
+      "gym"
+    ],
+    "vibe": "cam đỏ cay"
+  },
+  {
+    "id": "M060",
+    "name": "Rượu vang",
+    "bg1": "#7F1E30",
+    "bg2": "#5A0026",
+    "textColor": "Trắng",
+    "tags": [
+      "sang chảnh",
+      "valentine",
+      "noel"
+    ],
+    "vibe": "đỏ vang"
+  },
+  {
+    "id": "M061",
+    "name": "Hồng cánh sen",
+    "bg1": "#D82784",
+    "bg2": "#AF038C",
+    "textColor": "Trắng",
+    "tags": [
+      "crush",
+      "valentine",
+      "party"
+    ],
+    "vibe": "hồng rực"
+  },
+  {
+    "id": "M062",
+    "name": "Hồng neon",
+    "bg1": "#D719AD",
+    "bg2": "#A800B3",
+    "textColor": "Trắng",
+    "tags": [
+      "party",
+      "kpop",
+      "vô tri"
+    ],
+    "vibe": "hồng điện"
+  },
+  {
+    "id": "M063",
+    "name": "Mận chín",
+    "bg1": "#853166",
+    "bg2": "#5D175A",
+    "textColor": "Trắng",
+    "tags": [
+      "tình yêu",
+      "đêm",
+      "sang chảnh"
+    ],
+    "vibe": "mận đậm"
+  },
+  {
+    "id": "M064",
+    "name": "Đất nung",
+    "bg1": "#B95C3A",
+    "bg2": "#993B2B",
+    "textColor": "Trắng",
+    "tags": [
+      "vintage",
+      "du lịch",
+      "ootd"
+    ],
+    "vibe": "terracotta"
+  },
+  {
+    "id": "M065",
+    "name": "Cafe sữa đá",
+    "bg1": "#906847",
+    "bg2": "#6E442A",
+    "textColor": "Trắng",
+    "tags": [
+      "cafe",
+      "sáng sớm"
+    ],
+    "vibe": "nâu sữa"
+  },
+  {
+    "id": "M066",
+    "name": "Cafe đen",
+    "bg1": "#5D402D",
+    "bg2": "#3C2111",
+    "textColor": "Trắng",
+    "tags": [
+      "cafe",
+      "đêm",
+      "deadline"
+    ],
+    "vibe": "nâu đen"
+  },
+  {
+    "id": "M067",
+    "name": "Socola",
+    "bg1": "#7A462E",
+    "bg2": "#5D291A",
+    "textColor": "Trắng",
+    "tags": [
+      "ăn uống",
+      "valentine",
+      "ngọt"
+    ],
+    "vibe": "socola"
+  },
+  {
+    "id": "M068",
+    "name": "Caramel cháy",
+    "bg1": "#A06A31",
+    "bg2": "#7F4316",
+    "textColor": "Trắng",
+    "tags": [
+      "trà sữa",
+      "cafe"
+    ],
+    "vibe": "caramel"
+  },
+  {
+    "id": "M069",
+    "name": "Vàng mù tạt",
+    "bg1": "#926E10",
+    "bg2": "#7B4C00",
+    "textColor": "Trắng",
+    "tags": [
+      "vintage",
+      "tâm linh",
+      "ootd"
+    ],
+    "vibe": "mustard"
+  },
+  {
+    "id": "M070",
+    "name": "Xanh rêu",
+    "bg1": "#546C3A",
+    "bg2": "#2F5227",
+    "textColor": "Trắng",
+    "tags": [
+      "thiên nhiên",
+      "chill",
+      "vintage"
+    ],
+    "vibe": "rêu"
+  },
+  {
+    "id": "M071",
+    "name": "Rừng thông",
+    "bg1": "#256346",
+    "bg2": "#004538",
+    "textColor": "Trắng",
+    "tags": [
+      "đà lạt",
+      "núi",
+      "noel"
+    ],
+    "vibe": "thông xanh"
+  },
+  {
+    "id": "M072",
+    "name": "Rắn độc",
+    "bg1": "#098926",
+    "bg2": "#006738",
+    "textColor": "Trắng",
+    "tags": [
+      "meme",
+      "toxic",
+      "cà khịa"
+    ],
+    "vibe": "xanh rắn"
+  },
+  {
+    "id": "M073",
+    "name": "Tiền về",
+    "bg1": "#187C49",
+    "bg2": "#005C41",
+    "textColor": "Trắng",
+    "tags": [
+      "tiền",
+      "lương",
+      "flex"
+    ],
+    "vibe": "xanh đô la"
+  },
+  {
+    "id": "M074",
+    "name": "Ngọc lục bảo",
+    "bg1": "#007B62",
+    "bg2": "#005A54",
+    "textColor": "Trắng",
+    "tags": [
+      "sang chảnh",
+      "flex"
+    ],
+    "vibe": "emerald"
+  },
+  {
+    "id": "M075",
+    "name": "Biển sâu",
+    "bg1": "#00787D",
+    "bg2": "#005766",
+    "textColor": "Trắng",
+    "tags": [
+      "biển",
+      "chill",
+      "buồn nhẹ"
+    ],
+    "vibe": "teal sâu"
+  },
+  {
+    "id": "M076",
+    "name": "Đại dương",
+    "bg1": "#0070A6",
+    "bg2": "#004B96",
+    "textColor": "Trắng",
+    "tags": [
+      "biển",
+      "du lịch",
+      "học"
+    ],
+    "vibe": "xanh biển"
+  },
+  {
+    "id": "M077",
+    "name": "Xanh điện",
+    "bg1": "#2867E4",
+    "bg2": "#3F44C8",
+    "textColor": "Trắng",
+    "tags": [
+      "game",
+      "công nghệ",
+      "học"
+    ],
+    "vibe": "electric blue"
+  },
+  {
+    "id": "M078",
+    "name": "Navy",
+    "bg1": "#18386E",
+    "bg2": "#111A50",
+    "textColor": "Trắng",
+    "tags": [
+      "tốt nghiệp",
+      "công sở",
+      "đêm"
+    ],
+    "vibe": "xanh hải quân"
+  },
+  {
+    "id": "M079",
+    "name": "Đêm Sài Gòn",
+    "bg1": "#383585",
+    "bg2": "#300F60",
+    "textColor": "Trắng",
+    "tags": [
+      "đêm",
+      "sài gòn",
+      "party"
+    ],
+    "vibe": "tím xanh đêm"
+  },
+  {
+    "id": "M080",
+    "name": "Nửa đêm",
+    "bg1": "#2B2654",
+    "bg2": "#1A0A35",
+    "textColor": "Trắng",
+    "tags": [
+      "ngủ",
+      "2AM",
+      "overthinking"
+    ],
+    "vibe": "tím than"
+  },
+  {
+    "id": "M081",
+    "name": "Thạch anh tím",
+    "bg1": "#7444B4",
+    "bg2": "#651C88",
+    "textColor": "Trắng",
+    "tags": [
+      "tâm linh",
+      "tarot",
+      "party"
+    ],
+    "vibe": "amethyst"
+  },
+  {
+    "id": "M082",
+    "name": "Galaxy",
+    "bg1": "#5A30B9",
+    "bg2": "#520084",
+    "textColor": "Trắng",
+    "tags": [
+      "đêm",
+      "game",
+      "kpop"
+    ],
+    "vibe": "tím vũ trụ"
+  },
+  {
+    "id": "M083",
+    "name": "Phù thủy",
+    "bg1": "#462373",
+    "bg2": "#34004D",
+    "textColor": "Trắng",
+    "tags": [
+      "halloween",
+      "đêm"
+    ],
+    "vibe": "tím đen"
+  },
+  {
+    "id": "M084",
+    "name": "Tím Huế",
+    "bg1": "#835198",
+    "bg2": "#6C3270",
+    "textColor": "Trắng",
+    "tags": [
+      "vintage",
+      "buồn nhẹ",
+      "phụ nữ"
+    ],
+    "vibe": "tím mộng mơ"
+  },
+  {
+    "id": "M085",
+    "name": "Magenta",
+    "bg1": "#B229AD",
+    "bg2": "#8D0AA4",
+    "textColor": "Trắng",
+    "tags": [
+      "party",
+      "kpop",
+      "ootd"
+    ],
+    "vibe": "magenta"
+  },
+  {
+    "id": "M086",
+    "name": "Bão",
+    "bg1": "#596571",
+    "bg2": "#3B4350",
+    "textColor": "Trắng",
+    "tags": [
+      "mưa",
+      "buồn",
+      "bão",
+      "công sở",
+      "họp"
+    ],
+    "vibe": "xám bão"
+  },
+  {
+    "id": "M087",
+    "name": "Chiều mưa",
+    "bg1": "#5E7989",
+    "bg2": "#425468",
+    "textColor": "Trắng",
+    "tags": [
+      "mưa",
+      "buồn nhẹ",
+      "chill"
+    ],
+    "vibe": "xám xanh"
+  },
+  {
+    "id": "M088",
+    "name": "Than chì",
+    "bg1": "#373B40",
+    "bg2": "#1F2227",
+    "textColor": "Trắng",
+    "tags": [
+      "không cảm xúc",
+      "ngầu",
+      "mệt"
+    ],
+    "vibe": "graphite"
+  },
+  {
+    "id": "M089",
+    "name": "Buồn xanh",
+    "bg1": "#566B86",
+    "bg2": "#404B6E",
+    "textColor": "Trắng",
+    "tags": [
+      "buồn",
+      "thất tình",
+      "đêm"
+    ],
+    "vibe": "blue mood"
+  },
+  {
+    "id": "M090",
+    "name": "Đen bóng",
+    "bg1": "#28282E",
+    "bg2": "#17151A",
+    "textColor": "Trắng",
+    "tags": [
+      "flex",
+      "sang chảnh",
+      "ngầu"
+    ],
+    "vibe": "obsidian"
+  },
+  {
+    "id": "M091",
+    "name": "Đỏ gạch",
+    "bg1": "#AA442B",
+    "bg2": "#892218",
+    "textColor": "Trắng",
+    "tags": [
+      "vintage",
+      "gym"
+    ],
+    "vibe": "gạch nung"
+  },
+  {
+    "id": "M092",
+    "name": "Cyberpunk",
+    "bg1": "#5954CC",
+    "bg2": "#005884",
+    "textColor": "Trắng",
+    "tags": [
+      "game",
+      "đêm",
+      "party"
+    ],
+    "vibe": "tím sang xanh"
+  },
+  {
+    "id": "M093",
+    "name": "Dưa hấu",
+    "bg1": "#DA3456",
+    "bg2": "#BA0C57",
+    "textColor": "Trắng",
+    "tags": [
+      "mùa hè",
+      "ăn uống",
+      "vô tri"
+    ],
+    "vibe": "đỏ hồng dưa"
+  },
+  {
+    "id": "M094",
+    "name": "Sân cỏ",
+    "bg1": "#34871D",
+    "bg2": "#006818",
+    "textColor": "Trắng",
+    "tags": [
+      "bóng đá",
+      "gym",
+      "thể thao"
+    ],
+    "vibe": "xanh sân cỏ"
+  },
+  {
+    "id": "M095",
+    "name": "Hồng nhung",
+    "bg1": "#AB3A5D",
+    "bg2": "#861A51",
+    "textColor": "Trắng",
+    "tags": [
+      "phụ nữ",
+      "gia đình",
+      "tình yêu"
+    ],
+    "vibe": "hồng đậm"
+  },
+  {
+    "id": "M096",
+    "name": "Denim",
+    "bg1": "#3E5F8A",
+    "bg2": "#2D4772",
+    "textColor": "Trắng",
+    "tags": [
+      "ootd",
+      "học"
+    ],
+    "vibe": "jean"
+  },
+  {
+    "id": "M097",
+    "name": "Cổ vịt",
+    "bg1": "#006071",
+    "bg2": "#004158",
+    "textColor": "Trắng",
+    "tags": [
+      "đêm",
+      "chill",
+      "sang chảnh"
+    ],
+    "vibe": "teal xanh cổ vịt"
+  },
+  {
+    "id": "M098",
+    "name": "Ô liu",
+    "bg1": "#676F2D",
+    "bg2": "#475B1D",
+    "textColor": "Trắng",
+    "tags": [
+      "ootd",
+      "vintage",
+      "thiên nhiên"
+    ],
+    "vibe": "olive"
+  }
+]
