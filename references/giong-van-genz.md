@@ -36,7 +36,7 @@ flex · slay · red flag / green flag · ick · delulu · overthinking · chữa
 - **Meme chết** (chỉ dùng khi cố ý mỉa sự cũ kỹ): chất như nước cất · đã đẹp lại còn… · u là trời · hết nước chấm · xỉu up xỉu down · khum · ét o ét · gét gô
 - **Teencode đời 2010:** iu wá, j` zậy, bùn, ckồng, "ck iu"
 - **Pattern lười:** "[X] Time!" tối đa 1 lần/mục; không mở đầu 3 câu liên tiếp giống nhau
-- Hashtag, dấu chấm cuối câu, giải thích câu đùa, 2 emoji trong 1 caption
+- Hashtag, dấu chấm cuối câu, giải thích câu đùa, 2 emoji trong 1 caption (0 hoặc 1 emoji thì được)
 
 ## 5. So sánh để hiểu giọng
 

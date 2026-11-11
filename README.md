@@ -1,6 +1,6 @@
 # LOCKET CAPTION STUDIO
 
-Skill giúp AI (ChatGPT, Gemini, Claude) viết thư viện caption Locket giọng Gen Z Việt: emoji iPhone + chữ + gradient 2 màu + màu chữ, chia 109 mục, chọn theo STT rồi xuất Excel / Google Sheets.
+Skill giúp AI (ChatGPT, Gemini, Claude) viết thư viện caption Locket giọng Gen Z Việt: emoji iPhone (tùy chọn) + chữ + gradient 2 màu + màu chữ, chia 109 mục, chọn theo STT rồi xuất Excel / Google Sheets.
 
 > File này là **hướng dẫn cho bạn**, không cần tải lên AI.
 
